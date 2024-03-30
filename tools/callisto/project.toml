@@ -69,10 +69,10 @@ enable_automatic_reloads = true
 [output]
 
 # Path for the output ROM
-output_rom = "build/my_hack.smc"
+output_rom = "build/super_spleen_world.smc"
 
 # Path to temporary folder used during builds
 temporary_folder = "build/temp"
 
 # Path for BPS package output by the Package function
-bps_package = "build/package/my_hack.bps"
+bps_package = "build/package/super_spleen_world.bps"
