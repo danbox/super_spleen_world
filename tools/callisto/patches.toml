@@ -5,6 +5,6 @@
 
 [resources]
 patches = [
-	# "patches/some_patch.asm",
-	# "patches/etc.asm"
+    "resources/patches/bwram_plus-v1.3/bwram_plus.asm",
+    "resources/patches/retry-v2.06c/retry.asm",
 ]

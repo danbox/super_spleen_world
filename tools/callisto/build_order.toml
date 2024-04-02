@@ -19,7 +19,7 @@ build_order = [
     "Credits",                  # Insert Credits
     "GlobalExAnimation",        # Insert Global ExAnimation
 
-    # "Patches",                  # Insert all remaining patches from the patches list that 
+    "Patches",                  # Insert all remaining patches from the patches list that 
                                 # are not explicitly mentioned in this build order
 
 
